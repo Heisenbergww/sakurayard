@@ -1,0 +1,440 @@
+# Copyright (C) 2016 Surendra Mohnot
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: suri 0.1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-31 13:27+0530\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "We tried to find it, but it's just not to be found."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"You might ensure the URL is spelled correctly, or if you followed a link "
+"here please let us know. Please try a search to reach your desired "
+"destination."
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:105
+msgid "Primary"
+msgstr ""
+
+#: functions.php:106 functions.php:192
+msgid "Header"
+msgstr ""
+
+#: functions.php:107
+msgid "Footer"
+msgstr ""
+
+#: functions.php:108
+msgid "Social"
+msgstr ""
+
+#: functions.php:191
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:193
+msgid "footer-widget-1"
+msgstr ""
+
+#: functions.php:194
+msgid "footer-widget-2"
+msgstr ""
+
+#: functions.php:195
+msgid "footer-widget-3"
+msgstr ""
+
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:15 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:19
+msgid "Call to action"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:21
+msgid "Options to add call-to-action section"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:38
+msgid "Display call to action on home page"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:45
+msgid "Call to action title"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:48
+msgid "Primary text for call to action"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:54 addon/calltoaction/customizer.php:57
+msgid "Call to action description"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:63
+msgid "Button1 title"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:66
+msgid "Title for Primary button"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:72
+msgid "Button1 action link"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:75
+msgid "Url for Primary button"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:81
+msgid "Button2 title (Optional) "
+msgstr ""
+
+#: addon/calltoaction/customizer.php:84
+msgid "Title for secondary button (optional)"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:90
+msgid "Button2 action link (Optional) "
+msgstr ""
+
+#: addon/calltoaction/customizer.php:93
+msgid "Url for secondary button (optional)"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:99
+msgid "Wrapper Alignment"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:104
+msgid "Left Aligned"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:105
+msgid "Right Aligned"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:106
+msgid "Center Aligned"
+msgstr ""
+
+#: addon/calltoaction/customizer.php:112
+msgid "Maximum Wrapper length"
+msgstr ""
+
+#: inc/back-compat.php:44 inc/back-compat.php:56 inc/back-compat.php:71
+#, php-format
+msgid ""
+"Suri requires at least WordPress version 4.1. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/class-display.php:242 inc/class-display.php:262
+msgid "Previous"
+msgstr ""
+
+#: inc/class-display.php:243 inc/class-display.php:259
+msgid "Next"
+msgstr ""
+
+#: inc/class-display.php:244
+msgid "Page"
+msgstr ""
+
+#: inc/class-display.php:260
+msgid "Next post:"
+msgstr ""
+
+#: inc/class-display.php:263
+msgid "Previous post:"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:79
+msgid "Theme options"
+msgstr ""
+
+#: inc/customizer/class-customizer.php:81
+msgid "Options to customize site header structure and elements"
+msgstr ""
+
+#: inc/customizer/class-data.php:41
+msgid "Post content"
+msgstr ""
+
+#: inc/customizer/class-data.php:43
+msgid "Options to change content display options"
+msgstr ""
+
+#: inc/customizer/class-data.php:46 inc/customizer/class-data.php:86
+msgid "Content layout"
+msgstr ""
+
+#: inc/customizer/class-data.php:48
+msgid "Options to change content/sidebar display and positioning"
+msgstr ""
+
+#: inc/customizer/class-data.php:51
+msgid "Site Footer"
+msgstr ""
+
+#: inc/customizer/class-data.php:53
+msgid "Options to change footer text and navigation"
+msgstr ""
+
+#: inc/customizer/class-data.php:76
+msgid "Header layout"
+msgstr ""
+
+#: inc/customizer/class-data.php:81
+msgid "Content-Center"
+msgstr ""
+
+#: inc/customizer/class-data.php:82
+msgid "Content-Aligned"
+msgstr ""
+
+#: inc/customizer/class-data.php:91
+msgid "Content-Sidebar"
+msgstr ""
+
+#: inc/customizer/class-data.php:92
+msgid "Sidebar-Content"
+msgstr ""
+
+#: inc/customizer/class-data.php:93
+msgid "Only Content (No sidebar)"
+msgstr ""
+
+#: inc/customizer/class-data.php:97
+msgid "Hide sidebar on Home page"
+msgstr ""
+
+#: inc/customizer/class-data.php:103
+msgid "Display header image on home page only"
+msgstr ""
+
+#: inc/customizer/class-data.php:109
+msgid "Excerpt or full content"
+msgstr ""
+
+#: inc/customizer/class-data.php:114
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/class-data.php:115
+msgid "Full content"
+msgstr ""
+
+#: inc/customizer/class-data.php:119
+msgid "Excerpt Length (from 1 word to 500 words)"
+msgstr ""
+
+#: inc/customizer/class-data.php:126
+msgid "Change excerpt Read More text"
+msgstr ""
+
+#: inc/customizer/class-data.php:129
+msgid "default text will be: Continue Reading... "
+msgstr ""
+
+#: inc/customizer/class-data.php:134
+msgid "Display thumbnails for post"
+msgstr ""
+
+#: inc/customizer/class-data.php:141
+msgid "Display thumbnails on Single post"
+msgstr ""
+
+#: inc/customizer/class-data.php:148
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/customizer/class-data.php:156
+msgid "Don't use Web fonts"
+msgstr ""
+
+#: inc/customizer/class-data.php:162
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer/class-data.php:165
+msgid "Change default copyright text"
+msgstr ""
+
+#: inc/customizer/class-data.php:169
+msgid "Hide Credit text"
+msgstr ""
+
+#: inc/customizer/class-data.php:172
+msgid "NOTE : Showing author credit info is optional."
+msgstr ""
+
+#: inc/helper/function-defaults.php:33
+msgid "Continue reading..."
+msgstr ""
+
+#: template-parts/comment-navigation.php:14
+msgid "Comment navigation"
+msgstr ""
+
+#: template-parts/comment-ping.php:18
+msgid "Pingback:"
+msgstr ""
+
+#: template-parts/comment-ping.php:26 template-parts/comment.php:55
+msgid "(Edit)"
+msgstr ""
+
+#: template-parts/comment-title.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/comment.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/comment.php:40
+msgid " ago"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content.php:69
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: template-parts/content-page.php:40 template-parts/content.php:78
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:52
+msgid "Edit page"
+msgstr ""
+
+#: template-parts/entry-author.php:30
+msgid "Written by"
+msgstr ""
+
+#: template-parts/entry-author.php:35
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/entry-footer.php:13 template-parts/entry-footer.php:21
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: template-parts/entry-footer.php:16
+msgid "Categories "
+msgstr ""
+
+#: template-parts/entry-footer.php:24
+msgid "Tags "
+msgstr ""
+
+#: template-parts/entry-header.php:37
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: template-parts/entry-header.php:42
+msgid "Edit"
+msgstr ""
+
+#: template-parts/footer-items.php:17
+msgid "All Rights Reserved"
+msgstr ""
+
+#: template-parts/footer-items.php:24
+#, php-format
+msgid "Theme by %1$s"
+msgstr ""
+
+#: template-parts/header-skiplink.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/menu-footer.php:11
+msgid "Footer Menu"
+msgstr ""
+
+#: template-parts/menu-header.php:13
+msgid "Header Menu"
+msgstr ""
+
+#: template-parts/menu-header.php:15 template-parts/menu-primary.php:15
+msgid "Menu"
+msgstr ""
+
+#: template-parts/menu-primary.php:11
+msgid "Main Navigation"
+msgstr ""
+
+#: template-parts/site-sidebar.php:14
+msgid "Primary Sidebar"
+msgstr ""
