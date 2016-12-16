@@ -23,7 +23,7 @@ $suri_copyright_info = get_theme_mod( 'suri_copyright', suri_get_theme_defaults(
 		<div<?php suri_attr( 'site-credit' ); ?>>
 			<?php
 			printf( esc_html__( 'Theme by %1$s', 'suri' ),
-				'<a href="http://surimohnot.me/" rel="nofollow">Suri</a>'
+				'<a href="/" rel="nofollow">SakuraYard</a>'
 			);
 			?>
 		</div><!-- .site-credit -->
