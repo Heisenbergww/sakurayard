@@ -400,7 +400,8 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 	}
 
 	// Set to use PHP's mail()
-	$phpmailer->IsMail();
+	// $phpmailer->IsMail();
+	$phpmailer->IsSMTP();
 
 	// Set Content-Type and charset
 	// If we don't have a content-type from the input headers

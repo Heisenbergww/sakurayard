@@ -26,7 +26,7 @@ define('DB_NAME', 'first');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'bike.com');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');

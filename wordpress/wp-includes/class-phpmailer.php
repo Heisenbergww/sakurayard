@@ -263,8 +263,8 @@ class PHPMailer
      * @see PHPMailer::$Username
      * @see PHPMailer::$Password
      */
-    public $SMTPAuth = false;
-
+    // public $SMTPAuth = false;
+    public $SMTPAuth = true;
     /**
      * Options array passed to stream_context_create when connecting via SMTP.
      * @var array
@@ -275,13 +275,13 @@ class PHPMailer
      * SMTP username.
      * @var string
      */
-    public $Username = '';
+    public $Username = '804454576@qq.com';
 
     /**
      * SMTP password.
      * @var string
      */
-    public $Password = '';
+    public $Password = 'huahua(wu)0';
 
     /**
      * SMTP auth type.
